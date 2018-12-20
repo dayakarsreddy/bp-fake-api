@@ -1,0 +1,226 @@
+{
+    "getBusinessPlans": [
+        {
+          "name": "Rackfest",
+          "id": 1,
+          "owners": [
+            "Sreekanth",
+            "Meghanath",
+            "Justine"
+          ],
+          "target_audience": "Students",
+          "currency_format": "$"
+        },
+        {
+          "name": "Business Plan",
+          "id": 2,
+          "owners": [
+            "Sreekanth",
+            "Meghanath",
+            "Justine"
+          ],
+          "target_audience": "Students",
+          "currency_format": "$"
+        },
+        {
+          "name": "Rackfest",
+          "id": 3,
+          "owners": [
+            "Sreekanth",
+            "Meghanath",
+            "Justine"
+          ],
+          "target_audience": "Students",
+          "currency_format": "$"
+        },
+        {
+          "name": "Liquor Limo",
+          "id": 4,
+          "owners": [
+            "Sreekanth"
+          ],
+          "target_audience": "Students",
+          "currency_format": "$"
+        }
+      ], 
+      "businessPlan/1":{
+        "Overview": {
+          "Overview": "Overview"
+        },
+        "Vision": {
+          "Vision": "Vision",
+          "MissionStatement": "Mission Statement",
+          "GoalsandObjectives": "Goals and Objectives",
+          "Strategy": "Strategy"
+        },
+        "Product_Description": {
+          "DescriptionOfProductorService": "Description Of Product or service"
+        },
+        "Target_Market": {
+          "Geographic": "Geographic",
+          "Demographic": "Demographic",
+          "Psychographic": "Psychographic",
+          "Behavioral": "Behavioral",
+          "Market_Size_And_Growth_Rate": "Market Size And Growth Rate"
+        },
+        "Competition": {
+          "Direct_Compititors": "Direct_Compititors",
+          "Buyers": "Buyers",
+          "Suppliers": "Suppliers",
+          "Substitutes": "Substitutes",
+          "New_Entrants": "New_Entrants"
+        },
+        "Marketing_Plan": {
+          "The4Ps": "The 4 P's: Product, Price, Place And Promotion",
+          "Messaging_And_Positioning_Statement": "Messaging and positioning statement",
+          "Sales_and_business_development": "Sales and business development",
+          "Measuring_Your_Stategy": "Measuring your stategy"
+        },
+        "SWOT": {
+          "Strength": "Strength",
+          "Weakness": "Weakness",
+          "Opportunities": "Opportunities",
+          "Threats": "Threats"
+        },
+        "Management": {
+          "Management_And_Employee_Summary": "Management and employee summary",
+          "Board_Of_Advisors": "Board of advisors",
+          "Culture": "Culture"
+        },
+        "StartUp_Expenses": {
+          "One_Time_Expenses": {
+            "Business_Licenses_And_Fees": "Business licenses and Fees",
+            "Legal": "Legal",
+            "Website_Development": "Website development",
+            "Real_Estate_Down_Payment": "Real Estate down payment",
+            "Decorating_And_Remodeling": "Decorating and remodeling",
+            "Operations_Supplies": "Operations supplies",
+            "Furniture_And_Computer_Supplies": "Furniture and Computer supplies",
+            "Initial_Advertising": "Initial Advertising",
+            "Starting_Inventory": "Starting Inventory",
+            "Peoperty_Plant_And_Equipment": "Peoperty, Plant and Equipment"
+          },
+          "Recuring_Monthly_Expenses": {
+            "Months_Defore_Launch": "Months before launch",
+            "Real_Estate_Expenses": "Real_Estate_Expenses",
+            "utilities": "utilities",
+            "insurance": "insurance",
+            "telephone": "telephone",
+            "internet": "internet",
+            "Monthly_Employee_Salaries": "Monthly Employee Salaries",
+            "Employee_Benefits_And_Taxes": "Employee Benefits and taxes",
+            "Miscellaneous": "Miscellaneous"
+          }
+        },
+        "Income_Statement": {
+          "Asumptions": "Asumptions",
+          "Sources_And_Use_Of_Funds": "Sources_And_Use_Of_Funds",
+          "Exit_Strategy": "Exit_Strategy",
+          "Tax_Rate": "Tax_Rate %",
+          "Income_Statement": {
+            "Year_1": {
+              "Gross_Sales": "Gross Sales",
+              "Other_Income": "Other Income",
+              "Direct_Cost_Of_Sales": "Direct cost of sales",
+              "Advertising": "Advertising",
+              "Payroll": "Payroll",
+              "Supplies": "Supplies",
+              "Utilities": "Utilities",
+              "Real_Estate_Example": "Real Estate Example",
+              "Interest": "Interest",
+              "Insurance": "Insurance",
+              "Other_Expenses": "Other Expenses"
+            },
+            "Year_2": {
+              "Gross_Sales": "Gross Sales",
+              "Other_Income": "Other Income",
+              "Direct_Cost_Of_Sales": "Direct cost of sales",
+              "Advertising": "Advertising",
+              "Payroll": "Payroll",
+              "Supplies": "Supplies",
+              "Utilities": "Utilities",
+              "Real_Estate_Example": "Real Estate Example",
+              "Interest": "Interest",
+              "Insurance": "Insurance",
+              "Other_Expenses": "Other Expenses"
+            },
+            "Year_3": {
+              "Gross_Sales": "Gross Sales",
+              "Other_Income": "Other Income",
+              "Direct_Cost_Of_Sales": "Direct cost of sales",
+              "Advertising": "Advertising",
+              "Payroll": "Payroll",
+              "Supplies": "Supplies",
+              "Utilities": "Utilities",
+              "Real_Estate_Example": "Real Estate Example",
+              "Interest": "Interest",
+              "Insurance": "Insurance",
+              "Other_Expenses": "Other Expenses"
+            }
+          }
+        },
+        "Balance_Sheet": {
+          "Explain_Balance_Sheet": "Explain Balance Sheet",
+          "Year_1": {
+            "Cash": "Cash",
+            "Accounts_Receivable": "Accounts Receivable",
+            "Inventory": "Inventory",
+            "Short_Term_Investment": "Short-Term Investment",
+            "Long_Term_Investment": "Long-Term Investment",
+            "PP_E": "PP&E",
+            "Accumulated_Depreciation": "Accumulated Depreciation",
+            "Ontangible_Assets": "Ontangible Assets",
+            "Accounts_Payable": "Accounts Payable",
+            "Short_Term_Debt": "Short-Term Debt",
+            "Income_Taxes_Payable": "Income Taxes Payable",
+            "Accured_Salaries": "Accured Salaries",
+            "Unearned_Revenue": "Unearned Revenue",
+            "Other_Current_Liabilities": "Other Current Liabilities",
+            "Long_Term_Debt": "Long-Term Debt",
+            "Owners_Investment": "Owner's Investment",
+            "Retained_Earnings": "Retained Earnings"
+          },
+          "Year_2": {
+            "Cash": "Cash",
+            "Accounts_Receivable": "Accounts Receivable",
+            "Inventory": "Inventory",
+            "Short_Term_Investment": "Short-Term Investment",
+            "Long_Term_Investment": "Long-Term Investment",
+            "PP_E": "PP&E",
+            "Accumulated_Depreciation": "Accumulated Depreciation",
+            "Ontangible_Assets": "Ontangible Assets",
+            "Accounts_Payable": "Accounts Payable",
+            "Short_Term_Debt": "Short-Term Debt",
+            "Income_Taxes_Payable": "Income Taxes Payable",
+            "Accured_Salaries": "Accured Salaries",
+            "Unearned_Revenue": "Unearned Revenue",
+            "Other_Current_Liabilities": "Other Current Liabilities",
+            "Long_Term_Debt": "Long-Term Debt",
+            "Owners_Investment": "Owner's Investment",
+            "Retained_Earnings": "Retained Earnings"
+          }, 
+          "Year_3": {
+            "Cash": "Cash",
+            "Accounts_Receivable": "Accounts Receivable",
+            "Inventory": "Inventory",
+            "Short_Term_Investment": "Short-Term Investment",
+            "Long_Term_Investment": "Long-Term Investment",
+            "PP_E": "PP&E",
+            "Accumulated_Depreciation": "Accumulated Depreciation",
+            "Ontangible_Assets": "Ontangible Assets",
+            "Accounts_Payable": "Accounts Payable",
+            "Short_Term_Debt": "Short-Term Debt",
+            "Income_Taxes_Payable": "Income Taxes Payable",
+            "Accured_Salaries": "Accured Salaries",
+            "Unearned_Revenue": "Unearned Revenue",
+            "Other_Current_Liabilities": "Other Current Liabilities",
+            "Long_Term_Debt": "Long-Term Debt",
+            "Owners_Investment": "Owner's Investment",
+            "Retained_Earnings": "Retained Earnings"
+          }
+        },
+        "Excutive_Sumary": {
+          "Excutive_Summary": "Excutive Summary"
+        }
+      }
+  }
