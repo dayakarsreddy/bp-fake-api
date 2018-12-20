@@ -43,7 +43,7 @@
           "currency_format": "$"
         }
       ], 
-      "businessPlan/1":{
+      "getPlanDetails":{
         "Overview": {
           "Overview": "Overview"
         },
