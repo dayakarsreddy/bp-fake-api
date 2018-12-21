@@ -3,10 +3,12 @@
         {
           "name": "Rackfest",
           "id": 1,
-          "owners": [
-            "Sreekanth",
-            "Meghanath",
-            "Justine"
+          "owners": [{
+            "name":"Sreekanth"},
+            {
+            "name":"MG"},
+            {
+            "name":"Justin"}
           ],
           "target_audience": "Students",
           "currency_format": "$"
@@ -14,10 +16,12 @@
         {
           "name": "Business Plan",
           "id": 2,
-          "owners": [
-            "Sreekanth",
-            "Meghanath",
-            "Justine"
+           "owners": [{
+            "name":"Sreekanth"},
+            {
+            "name":"MG"},
+            {
+            "name":"Justin"}
           ],
           "target_audience": "Students",
           "currency_format": "$"
@@ -25,10 +29,12 @@
         {
           "name": "Rackfest",
           "id": 3,
-          "owners": [
-            "Sreekanth",
-            "Meghanath",
-            "Justine"
+          "owners": [{
+            "name":"Sreekanth"},
+            {
+            "name":"MG"},
+            {
+            "name":"Justin"}
           ],
           "target_audience": "Students",
           "currency_format": "$"
@@ -36,8 +42,12 @@
         {
           "name": "Liquor Limo",
           "id": 4,
-          "owners": [
-            "Sreekanth"
+           "owners": [{
+            "name":"Sreekanth"},
+            {
+            "name":"MG"},
+            {
+            "name":"Justin"}
           ],
           "target_audience": "Students",
           "currency_format": "$"
